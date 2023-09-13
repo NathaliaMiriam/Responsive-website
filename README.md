@@ -24,6 +24,7 @@ Site responsivo de 3 páginas feito com JavaScript assíncrono, HTML e SCSS.
 <h1>
   <img src="docs/images/image_third.png"  width="1100" height="600">
 </h1>
+<br>
 
 - layout do site em um dispositivo móvel:
 <h1>
